@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(65, 65, 65) ;
+    color: white ;
+    font-family: "Roboto" , serif ;
+}
+p
+{
+
+}
+.move-button
+{
+    background-color: transparent ;
+    border: none ;
+    border: 1px solid white ;
+    padding: 25px;
+    margin-right : 12px ;
+    border-radius: 80px ;
+    cursor: pointer ;
+}
+.move-icon 
+{
+    height: 60px ;
+}
+.reset-button , .auto-play-button
+{
+    margin-top : 20px ;
+    padding-top: 12px ;
+    padding-bottom: 12px ;
+    padding-left: 22px;
+    padding-right: 22px;
+    border:none ;
+    border-radius: 3px ;
+    font-size: 20px;
+    margin-right: 20px ;
+}
