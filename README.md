@@ -1,2 +1,4 @@
 # mini-projects
-contains small projects which  uses html , css and javascript 
+Contain a mini project game of Rock,paper and scissors 
+
+Made by using HTML , CSS and JAVASCRIPT
